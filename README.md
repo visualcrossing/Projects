@@ -15,7 +15,7 @@ A Google Apps Script-based Looker Studio Community Connector that brings Visual 
 - **Error Handling**: Comprehensive error handling and debugging
 
 ### Quick Start
-1. Get your free API key from [Visual Crossing Weather](https://www.visualcrossing.com/weather-api)
+1. Get your free API key from [Visual Crossing Weather](https://www.visualcrossing.com/account/)
 2. Deploy the connector using Google Apps Script
 3. Configure in Looker Studio with your API key and settings
 
