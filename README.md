@@ -46,6 +46,6 @@ A Google Apps Script-based Looker Studio Community Connector that brings Visual 
 
 ### Production Connector
 
-**Deployment ID:** `AKfycbzh3AjSr1RjhBoLLWLaJ8DcBXdKVRmEpFxxRzPMFDwawiJO1cFHO-spEAo1XAMoUEAqIQ`  
-**Data Studio URL:** [https://datastudio.google.com/datasources/create?connectorId=AKfycbzh3AjSr1RjhBoLLWLaJ8DcBXdKVRmEpFxxRzPMFDwawiJO1cFHO-spEAo1XAMoUEAqIQ&authuser=0](https://datastudio.google.com/datasources/create?connectorId=AKfycbzh3AjSr1RjhBoLLWLaJ8DcBXdKVRmEpFxxRzPMFDwawiJO1cFHO-spEAo1XAMoUEAqIQ&authuser=0)  
-**Web app URL:** https://script.google.com/macros/s/AKfycbzh3AjSr1RjhBoLLWLaJ8DcBXdKVRmEpFxxRzPMFDwawiJO1cFHO-spEAo1XAMoUEAqIQ/exec
+**Deployment ID:** `AKfycbybtv7dq1gGqfC8y8mbk8-Iul5ZJ_hBAxq59y9UrvB-oKW_Or1rTYlj6wJLtPaSCxUntQ`  
+**Data Studio URL:** [https://datastudio.google.com/datasources/create?connectorId=AKfycbybtv7dq1gGqfC8y8mbk8-Iul5ZJ_hBAxq59y9UrvB-oKW_Or1rTYlj6wJLtPaSCxUntQ&authuser=0](https://datastudio.google.com/datasources/create?connectorId=AKfycbybtv7dq1gGqfC8y8mbk8-Iul5ZJ_hBAxq59y9UrvB-oKW_Or1rTYlj6wJLtPaSCxUntQ&authuser=0)  
+**Web app URL:** https://script.google.com/macros/s/AKfycbybtv7dq1gGqfC8y8mbk8-Iul5ZJ_hBAxq59y9UrvB-oKW_Or1rTYlj6wJLtPaSCxUntQ/exec

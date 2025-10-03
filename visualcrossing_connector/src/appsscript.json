@@ -20,6 +20,10 @@
     "description": "Bring Visual Crossing daily/hourly weather into Looker Studio. Optional store join via Google Sheet.",
     "sources": ["Visual Crossing"],
     "shortDescription": "Weather (daily/hourly) + optional store join",
+    "authType": ["NONE"],
+    "feeType": ["FREE"],
+    "privacyPolicyUrl": "https://www.visualcrossing.com/privacy/",
+    "termsOfServiceUrl": "https://www.visualcrossing.com/weather-service-terms/",
     "templates": {}
   }
 }
