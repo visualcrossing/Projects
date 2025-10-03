@@ -1,0 +1,25 @@
+{
+  "timeZone": "Etc/UTC",
+  "runtimeVersion": "V8",
+  "dependencies": {},
+  "exceptionLogging": "STACKDRIVER",
+  "oauthScopes": [
+    "https://www.googleapis.com/auth/script.external_request",
+    "https://www.googleapis.com/auth/spreadsheets.readonly"
+  ],
+  "urlFetchWhitelist": [
+    "https://weather.visualcrossing.com/"
+  ],
+  "dataStudio": {
+    "name": "Visual Crossing Weather Connector",
+    "logoUrl": "https://www.visualcrossing.com/wp-content/uploads/2025/06/VCLogo_1.png",
+    "company": "Visual Crossing",
+    "companyUrl": "https://www.visualcrossing.com/",
+    "addonUrl": "https://www.visualcrossing.com/connector",
+    "supportUrl": "https://www.visualcrossing.com/support",
+    "description": "Bring Visual Crossing daily/hourly weather into Looker Studio. Optional store join via Google Sheet.",
+    "sources": ["Visual Crossing"],
+    "shortDescription": "Weather (daily/hourly) + optional store join",
+    "templates": {}
+  }
+}
